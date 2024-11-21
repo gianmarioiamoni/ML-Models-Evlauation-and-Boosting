@@ -1,1 +1,3 @@
-# ML-Models-Evlauation-and-Boosting
+# MODELS EVALUATION AND BOOSTING
+- K-Fold Cross Validation 
+- Grid Search
